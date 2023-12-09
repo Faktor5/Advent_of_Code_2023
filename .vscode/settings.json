@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.kt": "kotlin",
+        "fstream": "cpp",
+        "iosfwd": "cpp"
+    }
+}

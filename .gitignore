@@ -1,0 +1,6 @@
+# every older which is in a bin folder regargless of the depth
+# of the folder structure
+#
+./**/bin/*
+./**/build/*
+./**/*.txt
